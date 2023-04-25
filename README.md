@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @sunlinjin
-- 👀 I’m an embedded software engineer.
-- 📫 Email : sun.linjin@163.com
++ Hi, I’m Linjin Sun, an embedded software engineer.
++ Email : sun.linjin@163.com
 
 <!---
 sunlinjin/sunlinjin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
